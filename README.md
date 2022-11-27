@@ -1,6 +1,6 @@
 ## Учебные проекты программы обучения "Специалист по Data Science"
 
-### [comparing_of_music_preferences_in_moscow_and_st_petersburg_based_on_yandex_music_data](https://github.com/denis-42ds/projects_yandex.practicum_data_science/tree/main/comparing_of_music_preferences_in_moscow_and_st_petersburg_based_on_yandex_music_data
+### [comparing_of_music_preferences_in_moscow_and_st_petersburg_based_on_yandex_music_data](https://github.com/denis-42ds/projects_yandex.practicum_data_science/tree/main/comparing_of_music_preferences_in_moscow_and_st.petersburg_based_on_yandex_music_data)
 - Сравнение Москвы и Петербурга окружено мифами. Например:
 	- Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;
 	- Петербург — культурная столица, со своими вкусами.
