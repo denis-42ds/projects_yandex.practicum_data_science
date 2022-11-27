@@ -111,7 +111,7 @@
 #### Использованные инструменты: 
 - Python, pandas, numpy, matplotlib, seaborn, scikit-learn, catboost, lightgbm, time
 
-### [taxi_ orders_forecasting](https://github.com/denis-42ds/projects_yandex.practicum_data_science/tree/main/taxi_ orders_forecasting)
+### [taxi_ orders_forecasting](https://github.com/denis-42ds/projects_yandex.practicum_data_science/tree/main/taxi_orders_forecasting)
 #### Описание проекта: 
 - Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. 
 <br>Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. 
